@@ -1,5 +1,4 @@
-[![Run Tests](https://github.com/jcwilk/puzzle_editor/actions/workflows/test.yml/badge.svg)](https://github.com/jcwilk/puzzle_editor/actions?query=workflow%3A%22Run%20Tests%22)
-(Fix this badge after forking from template)
+[![Tests](https://github.com/jcwilk/puzzle_editor/actions/workflows/test.yml/badge.svg)](https://github.com/jcwilk/puzzle_editor/actions?query=workflow%3A%22Run%20Tests%22)
 
 A prototype around editing puzzles.
 
