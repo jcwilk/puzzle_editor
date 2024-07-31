@@ -6,8 +6,6 @@ A prototype around editing puzzles.
 
 Just push to master and the github action will build into the `gh-pages` branch.
 
-Make sure you have Pages enabled on your repository pointing at `gh-pages` branch from `/` root.
-
 # Local development
 
 Make sure node is installed and updated, then after cloning and cding into the project:
